@@ -1,1 +1,1 @@
-print("Thins is a good string")
+print("Thins,is,a,good,string")
