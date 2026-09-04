@@ -1,2 +1,2 @@
-todays_date = "Hello, World!"
+todays_date = "!"
 current_exercise = "4/9/2026"
