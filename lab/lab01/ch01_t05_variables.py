@@ -1,2 +1,2 @@
 greeting_message = "Welcome to Codecademy!"
-todays_date = "365 days in a year"
+todays_date = "4/9/2026"
