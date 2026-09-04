@@ -1,2 +1,2 @@
 todays_date = "Hello, World!"
- = "4/9/2026"
+current_exer = "4/9/2026"
