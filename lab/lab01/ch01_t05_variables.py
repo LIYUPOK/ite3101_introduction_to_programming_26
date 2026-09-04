@@ -1,2 +1,2 @@
-greeting_message = "Hello, world!"
+greeting_message = "Hello, World!"
 todays_date = "4/9/2026"
