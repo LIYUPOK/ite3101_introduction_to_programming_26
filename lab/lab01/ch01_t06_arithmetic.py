@@ -1,1 +1,1 @@
-product = 5
+product = 5*2
