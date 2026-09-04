@@ -1,2 +1,2 @@
 todays_date = "Welcome to  Codecademy!"
- = "datetime.datetime.now"
+current_timetodays_date = "datetime.datetime.now"
