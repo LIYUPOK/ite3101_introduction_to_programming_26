@@ -1,4 +1,4 @@
 haiku ="""The old pond,
-a frog jumps in:
+A frog jumps in:
 Plop!
 """
