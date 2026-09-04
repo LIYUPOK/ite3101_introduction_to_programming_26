@@ -1,1 +1,1 @@
-todays_date = Welcome to C
+todays_date = Welcome to Codecademy
