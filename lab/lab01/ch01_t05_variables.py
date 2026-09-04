@@ -1,2 +1,2 @@
 todays_date = "Welcome to  Codecademy!"
-current_exercise = ""
+current_exercise = "datetimg.datetime.now"
