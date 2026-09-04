@@ -1,3 +1,4 @@
 haiku = """
-the old pond,"
-a""
+the old pond,
+"
+""
