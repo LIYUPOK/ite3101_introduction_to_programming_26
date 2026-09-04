@@ -1,1 +1,1 @@
-Python Syntax
+skill_completedPython Syntax
