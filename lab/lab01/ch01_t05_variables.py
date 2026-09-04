@@ -1,2 +1,2 @@
-todays_date = "Welcome to Codecademy!"
+ = "Welcome to Codecademy!"
 todays_date = "365 days in a year"
