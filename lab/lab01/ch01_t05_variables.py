@@ -1,2 +1,2 @@
-greeting = "Welcome to Codecademy!"
+greetingmessage = "Welcome to Codecademy!"
 todays_date = "365 days in a year"
