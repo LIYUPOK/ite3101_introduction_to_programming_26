@@ -1,3 +1,3 @@
 impot datetime
 
-todays_date = f"{datetime.datetime.now():%d/}"
+todays_date = f"{datetime.datetime.now():%d/%m}"
