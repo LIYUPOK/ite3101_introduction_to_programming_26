@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
 
-print ("norwegian blue".lower)
+print ("orwegian lue".lower)
