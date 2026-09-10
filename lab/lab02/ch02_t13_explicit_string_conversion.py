@@ -1,3 +1,3 @@
 # Turn 3.14 into a string on line 3!
 
-print(str(3.14) +"Ping!")
+print(The value of pi is around 3.14str(3.14) +"Ping!")
