@@ -3,4 +3,4 @@
 L = 1
 print(str(L))
 print(len(L))
-print(L . upper())
+print(L . upper(6)
