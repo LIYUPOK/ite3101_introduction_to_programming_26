@@ -3,4 +3,4 @@
 my_string = 10
 print(str(my_string))
 print(len(my_string))
-print(happy.upper())
+print(my_string.upper())
