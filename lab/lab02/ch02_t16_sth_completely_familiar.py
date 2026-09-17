@@ -1,6 +1,6 @@
 # Write your code below, starting on line 3!
 
 my_string = 10
-print(str(happy))
-print(len(happy))
+print(str(my_string))
+print(len(my_string))
 print(happy.upper())
