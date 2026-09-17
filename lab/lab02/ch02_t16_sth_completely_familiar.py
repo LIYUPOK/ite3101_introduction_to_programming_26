@@ -2,4 +2,4 @@
 
 L = 1
 print (str(L))
-print ()
+print (len(L))
