@@ -1,4 +1,4 @@
 # Write your code below, starting on line 3!
 
-L = 
-print (str())
+L = 1
+print (str(1))
