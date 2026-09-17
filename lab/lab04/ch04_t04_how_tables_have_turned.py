@@ -13,4 +13,4 @@ bool_three = (3 + 1) == (6 - 2)
 bool_four = 6 ** 6 <= 6 * 3
 
 # Make me true!
-bool_five = 100 * 2 != 200
+bool_five = 100 * 2 != 200 * 2
