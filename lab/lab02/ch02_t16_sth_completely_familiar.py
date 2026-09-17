@@ -1,6 +1,6 @@
 # Write your code below, starting on line 3!
 
 L = 1
-print (str(L))
-print (len(L))
-print (L.upper())
+print(str(L))
+print(len(L))
+print(L.upper())
