@@ -1,10 +1,10 @@
 pyg = 'ay'
 
 original = input('Enter a word:')
-if len(new_word) > 0 and new_word.isalpha():
-    word = new_word.lower()
+if len(original) > 0 and original.isalpha():
+    word = original.lower()
     first = word[0]
-    new_word = word + first + pyg
-    new_word = new_word[1:len(new_word)]
+    original = word + first + pyg
+    original = original[1:len(new_word)]
 else:
     print('empty')
