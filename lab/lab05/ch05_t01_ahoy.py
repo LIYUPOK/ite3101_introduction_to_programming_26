@@ -1,1 +1,1 @@
-print "Pig Latin\n"
+print = "Pig Latin"
