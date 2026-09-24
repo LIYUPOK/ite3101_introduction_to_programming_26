@@ -1,4 +1,4 @@
-print
+print(new_word)
 pyg = 'ay'
 
 original = input('Enter a word:')
