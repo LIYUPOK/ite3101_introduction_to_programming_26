@@ -1,6 +1,6 @@
 pyg = 'ay'
 
-new_word = input('Enter a word:')
+ = input('Enter a word:')
 if len(new_word) > 0 and new_word.isalpha():
     word = new_word.lower()
     first = word[0]
