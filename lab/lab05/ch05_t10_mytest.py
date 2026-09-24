@@ -8,3 +8,4 @@ if len(original) > 0 and original.isalpha():
     new_word = new_word[1:len(new_word)]
 else:
     print('empty')
+print ("")
