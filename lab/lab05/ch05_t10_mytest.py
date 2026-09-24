@@ -1,7 +1,7 @@
 pyg = 'ay'
 
 new_word = input('Enter a word:')
-if len(original) > 0 and original.isalpha():
+if len(new_word) > 0 and original.isalpha():
     word = original.lower()
     first = word[0]
     new_word = word + first + pyg
