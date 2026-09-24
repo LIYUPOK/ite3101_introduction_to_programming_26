@@ -10,7 +10,7 @@ bool_two = True and True
 bool_three = 3**3 = 4**4
 
 # Make me true!
-bool_four = None
+bool_four = 
 
 # Make me true!
 bool_five = None
