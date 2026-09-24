@@ -5,3 +5,4 @@ original = input("Enter a word:")
 if len(original) > 0:
     return print "empty"
 else:
+    return
