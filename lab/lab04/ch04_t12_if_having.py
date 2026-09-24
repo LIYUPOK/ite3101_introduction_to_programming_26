@@ -1,5 +1,5 @@
 def using_control_once() -> str:
-    if "HELLO" == "":
+    if "HELLO" == "HELLO" :
         return "Success #1"
 
 
