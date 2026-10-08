@@ -1,3 +1,3 @@
 def shut_down(s):
     if s == "yes":
-        return shutting aborted
+        return shutting down"
