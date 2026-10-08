@@ -3,4 +3,6 @@ def shut_down(s):
         return "shutting down"
     elif s =="no"
         return "shutdown aborted"
+    else:
+        return "sorry"
 
