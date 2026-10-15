@@ -1,2 +1,2 @@
 def distance_from_zero(L)
-    if 
+    if type(L) == int 
