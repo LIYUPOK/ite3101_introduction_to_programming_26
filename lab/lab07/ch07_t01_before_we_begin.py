@@ -1,1 +1,1 @@
-def anwer(42)
+def anwer(42):
