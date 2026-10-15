@@ -1,5 +1,5 @@
 def distance_from_zero(L):
-   if type(L) == int or type(arg) == float:
-        return abs(arg)
+   if type(L) == int or type(L) == float:
+        return abs(L)
     else:
         return "Nope"
