@@ -1,5 +1,5 @@
-def distance_from_zero(-1)
-   if type(-1) == int or type(-1) == float:
-        return abs(-1)
+def distance_from_zero(arg）
+   if type(arg) == int or type(arg) == float:
+        return abs(arg)
     else:
         return "Nope"
