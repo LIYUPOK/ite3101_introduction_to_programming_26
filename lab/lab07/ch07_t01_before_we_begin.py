@@ -1,1 +1,2 @@
-def anwer(42):
+def anwer():
+    return 
