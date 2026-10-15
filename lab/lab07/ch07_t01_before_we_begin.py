@@ -1,2 +1,2 @@
 def anwer():
-    return 
+    return 42
