@@ -13,3 +13,4 @@ inventory['pouch'].sort()
 
 # Your code here
 inventory.append('pocket')
+
