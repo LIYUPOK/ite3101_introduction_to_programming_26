@@ -14,6 +14,6 @@ stock = {
 total = 0
 
 for key in prices:
-    total = total + (prices[item] * stock[item])
+    total = total + (prices[key] * stock[key])
 
 print(total)
