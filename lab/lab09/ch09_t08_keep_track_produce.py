@@ -12,4 +12,4 @@ stock = {
 }
 for item in prices:
     print(item)
-    
+    print()
