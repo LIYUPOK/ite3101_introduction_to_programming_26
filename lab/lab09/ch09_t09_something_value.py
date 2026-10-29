@@ -13,7 +13,7 @@ stock = {
 
 total = 0
 
-for item in prices:
+for key in prices:
     total = total + (prices[item] * stock[item])
 
 print(total)
