@@ -13,4 +13,4 @@ stock = {
 for item in prices:
     print(item)
     print("price: %s"  5 prices[item])
-    
+    print("stock: %s" )
