@@ -18,4 +18,5 @@ for key in prices:
 
 total = 0
 for money in prices:
-    print 
+    print(money)
+    
