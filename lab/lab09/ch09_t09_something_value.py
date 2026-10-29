@@ -13,8 +13,8 @@ stock = {
 
 for key in prices:
     print(item)
-    print("price: %s" % prices[key])
-    print("stock: %s" % stock[key])
+    print("price: %s" % prices[item])
+    print("stock: %s" % stock[item])
 
 total = 0
 for money in prices:
