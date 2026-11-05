@@ -18,6 +18,7 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
+for student in students:
 print(students["name"])
 print(students["homework"])
 print(students["quizzes"])
