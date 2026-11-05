@@ -4,3 +4,9 @@ lloyd = {
     "quizzes":""
     "tests":""
 }
+alice = {
+        "name": "Lloyd"
+    "homework":""
+    "quizzes":""
+    "tests":""
+}
