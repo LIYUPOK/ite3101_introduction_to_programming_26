@@ -5,7 +5,7 @@ lloyd = {
     "tests":""
 }
 alice = {
-        "name": "Lloyd"
+    "name": "Alice"
     "homework":""
     "quizzes":""
     "tests":""
