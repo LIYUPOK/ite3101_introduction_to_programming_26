@@ -4,7 +4,8 @@ def flatten(lists: list[list[int]])-> list[int]:
     resuult = []
     for item in lists:
         for i in item:
-            result.append
+            result.append(i)
+    return result
 
 
 # print(flatten(n))
