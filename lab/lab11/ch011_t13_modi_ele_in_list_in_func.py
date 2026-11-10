@@ -1,9 +1,9 @@
-n = [3, 5, 7]
+n = [12, 20, 28]
 def double_list(x):
-    for i in range(0, len(x)):
+    for i in range(len(x)):
         x[i] = x[i] * 2
     return x
 
 # print(double_list(n))
 print(double_list(n))
-print(n)
+
