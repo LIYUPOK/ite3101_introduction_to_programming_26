@@ -1,6 +1,6 @@
 n = ["Michael", "Lieberman"]
 # Add your function here
-def join_string(words):
+def join_string(words: List):
     result = ""
     for i in words:
         result += i
