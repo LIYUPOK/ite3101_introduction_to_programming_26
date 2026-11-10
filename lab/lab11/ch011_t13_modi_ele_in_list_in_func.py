@@ -6,3 +6,4 @@ def double_list(x: list[int]) -> list[int]:
 
 # print(double_list(n))
 print(double_list(n))
+print(n)
