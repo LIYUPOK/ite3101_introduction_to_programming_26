@@ -6,3 +6,5 @@ def total(numbers):
     dor i in numbers:
         result += i
     return result
+
+print(total(n))
