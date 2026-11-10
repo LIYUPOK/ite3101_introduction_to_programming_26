@@ -2,7 +2,8 @@ from typing import List
 
 
 def list_function(x: List[int]) -> int:
-    x
+    x[1] = x[1] + 3
+    
     return x[1]
 
 
