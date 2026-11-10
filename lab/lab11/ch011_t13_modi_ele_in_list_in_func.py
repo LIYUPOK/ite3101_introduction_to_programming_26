@@ -5,4 +5,4 @@ def double_list(x):
     
 
 # print(double_list(n))
-print(double_list(n))
+print(n)
