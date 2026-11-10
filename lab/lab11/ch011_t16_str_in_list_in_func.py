@@ -6,4 +6,4 @@ def join_string(words):
         result += i + ""
     return result
 
-print(join_string(words))
+print(join_string(n))
