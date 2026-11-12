@@ -1,3 +1,3 @@
 board = []
-    
+for i in 
     
