@@ -6,4 +6,4 @@ def print_board(board_in):
     for row in board_in
         print(row)
 
-print(print_board)
+print(print_board(board))
