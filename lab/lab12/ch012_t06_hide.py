@@ -18,3 +18,4 @@ def random_row(board_in):
 def random_col(board_in):
     randint(0, len(board_in) - 1)
 
+random_row()
