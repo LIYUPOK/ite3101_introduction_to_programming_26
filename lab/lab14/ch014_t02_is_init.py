@@ -1,2 +1,2 @@
-def is _int(x: float) -> boll:
-return x -- int(x)
+def is _int(x: float) -> bool:
+    return x == int(x)
