@@ -1,0 +1,1 @@
+def is _int(x: flo)
